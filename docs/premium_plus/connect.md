@@ -10,7 +10,7 @@ tags:
 
 # Connect Device
 
-Several of the best Premium+ features, require pairing your node with your account at myndoebtc.com, including the following.
+Several of the best Premium+ features, require pairing your node with your account at mynodebtc.com, including the following.
 
 - Remote SCB Backup
 - Lightning Watchtwer
