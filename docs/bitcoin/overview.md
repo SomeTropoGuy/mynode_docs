@@ -36,8 +36,8 @@ A full node verifies every block mined by miners and relayed by its peers before
 - On devices with little RAM, Bitcoin will limit RAM usage to prevent low memory issues
 
 ## Specs
-- **Version:** 0.21.1
-- **Memory required:** 335 GB (as of Aug 23, 2020)
+- **Version:** 0.21.1 **This ought to be updated to current versions of "core" and other popular versions.**
+- **Memory required:** 335 GB (as of Aug 23, 2020) **This ought to be updated! Show size history over time.**
 - **Data location:** `/mnt/mynode/bitcoin` which is also linked at `/home/bitcoin/.bitcoin`
 
 <!-- While setting up MyNode, the user have three options: -->
